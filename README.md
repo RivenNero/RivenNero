@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/RivenNero?template=classic&base.metadata=0&introduction=1&pagespeed=1&introduction.title=true&pagespeed.url=https%3A%2F%2Frivennero.com&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai&config.padding=100%25%2C%20100%25)
+![Profile](github-metrics.svg)
