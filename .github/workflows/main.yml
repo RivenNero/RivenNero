@@ -11,6 +11,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Use official docker image
+          use_prebuilt_image: yes
+
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
