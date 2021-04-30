@@ -20,9 +20,11 @@ jobs:
           # Options
           user: RivenNero
           template: classic
-          base: ""
+          base: header, activity, community, repositories
+          config_padding: 100%, 100%
           config_timezone: Asia/Shanghai
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: https://rivennero.com
