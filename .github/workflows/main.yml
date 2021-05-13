@@ -25,6 +25,3 @@ jobs:
           config_timezone: Asia/Shanghai
           plugin_introduction: yes
           plugin_introduction_title: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: https://rivennero.com
